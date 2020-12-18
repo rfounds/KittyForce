@@ -1,2 +1,0 @@
-# KittyForce
-Neko Battle Royale
